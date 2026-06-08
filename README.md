@@ -69,6 +69,10 @@ If the components do not fit properly into the slots, it can be moved into the s
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e89b9fe9-f1d9-4148-84b2-fc7a3c13d12e" />
 <img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/d25b8942-51e7-45c2-bd04-70aec79cbed8" />
 <img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/11b4dfef-a66d-46a0-aef3-6b7671c26358" />
+<img width="1080" height="786" alt="WhatsApp Image 2026-06-08 at 09 11 59" src="https://github.com/user-attachments/assets/05fa1bb9-e66a-4857-ab97-c2cc2100df00" />
+<img width="1080" height="819" alt="1113" src="https://github.com/user-attachments/assets/b5a4caab-8807-4c2e-9fbf-fdcd00bd70d5" />
+<img width="1080" height="830" alt="1114" src="https://github.com/user-attachments/assets/ab9139d9-bc9c-4bb8-b355-1a6c59b6706b" />
+
 
 
 
